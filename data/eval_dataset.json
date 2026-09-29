@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How many casual leaves am I entitled to per year?",
+    "ground_truth": "Every full-time employee is entitled to 12 casual leaves per calendar year, accrued at 1 day per month, and unused casual leave lapses at year end."
+  },
+  {
+    "question": "What is the response time for a P1 critical IT ticket?",
+    "ground_truth": "A P1 (critical) IT ticket has a response time of 30 minutes."
+  },
+  {
+    "question": "How soon must I report a suspected security incident?",
+    "ground_truth": "Any suspected security incident must be reported to the SOC within 1 hour of discovery."
+  },
+  {
+    "question": "What is the meal expense limit per person when meeting a client?",
+    "ground_truth": "Client meals are reimbursable up to $75 per person per meal."
+  },
+  {
+    "question": "How many weeks of maternity leave are provided?",
+    "ground_truth": "Maternity leave is granted for 26 weeks as per statutory requirements."
+  }
+]
